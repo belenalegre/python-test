@@ -1,6 +1,6 @@
 # Pyton Test for Colektia Company
 
-This is an ETL process made as a test for Colektia company to apply for the vacancy of Data Engineer Trainee. When executing the script, the path of a CSV local file is requested, it extracts the information from this file, transforms it and saves the transformed files in the directory named "output". Finally, this files are saved as tables in the database named "database.db3".
+Este es un proceso ETL realizado como prueba para que la empresa Colektia se postule a la vacante de Data Engineer Trainee. Al ejecutar el script se solicita la ruta de un archivo local CSV, extrae la información de este archivo, la transforma y guarda los archivos transformados en el directorio denominado "salida". Finalmente, estos archivos se guardan como tablas en la base de datos denominada "database.db3".
 
 ## Install packages
 `pip install -r requirements.txt`
